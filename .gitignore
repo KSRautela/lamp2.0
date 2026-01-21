@@ -1,0 +1,30 @@
+# KiCad temporary files
+*.tmp
+*~
+_autosave-*
+*.lck
+fp-info-cache
+
+# Backup files
+*-bak
+*-backup
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Build outputs (if any)
+build/
+dist/
