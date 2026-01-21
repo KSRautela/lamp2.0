@@ -10,6 +10,7 @@
 | Resistor | 1 | 220Ω - 470Ω (0.25W) | Limits current to the switch's internal LED to prevent burnout |
 | Capacitor | 1 | 0.1µF (100nF) Ceramic Disc (Code: 104) | Hardware Debouncing: Filters out electrical noise from the switch press |
 | Power Supply | 1 | 5V 2A+ Adapter | Powers both the microcontroller and the LED ring |
+| Threaded Inserts | 4 | M2 x 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm) | For secure mounting of PCB to 3D printed case |
 
 ## Circuit Connections
 
@@ -45,4 +46,5 @@ The 4-pin switch is treated as two separate circuits:
 1. **Power Considerations**: Ensure your power supply can handle the full LED ring at maximum brightness (60 LEDs × 60mA = 3.6A theoretical max)
 2. **Heat Management**: Consider ventilation if running at high brightness for extended periods
 3. **Wire Gauge**: Use appropriate wire gauge for power connections (18-20 AWG recommended for power)
-4. **Mounting**: Design enclosure to allow easy access to the illuminated button while protecting the electronics
+4. **Threaded Inserts**: Install M2 x 3mm brass threaded inserts into the 3D printed case before mounting the PCB. Use a soldering iron to heat-set the inserts for secure mounting
+5. **Mounting**: Design enclosure to allow easy access to the illuminated button while protecting the electronics
