@@ -112,6 +112,8 @@ Navigate to: **Config > Time & Macros**
 - Real-time preview of changes
 
 ### Mobile App:
-- WLED app available for iOS and Android
+- **Android**: [WLED on Google Play Store](https://play.google.com/store/apps/details?id=com.aircoookie.WLED)
+- **iOS**: [WLED on App Store](https://apps.apple.com/app/wled/id1475695033)
+- **Alternative**: Download APK directly from [WLED GitHub Releases](https://github.com/Aircoookie/WLED/releases)
 - Remote control and scheduling features
 - Multiple device management
