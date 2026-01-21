@@ -11,6 +11,7 @@
 | Capacitor | 1 | 0.1µF (100nF) Ceramic Disc (Code: 104) | Hardware Debouncing: Filters out electrical noise from the switch press |
 | Power Supply | 1 | 5V 2A+ Adapter | Powers both the microcontroller and the LED ring |
 | Threaded Inserts | 4 | M2 x 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm) | For secure mounting of PCB to 3D printed case |
+| Washers | 4 | M3 Washer SS304 (Dia. 3mm) | For mounting and spacing components |
 
 ## Circuit Connections
 
